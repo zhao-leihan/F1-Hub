@@ -27,7 +27,7 @@ const grid2026 = [
     { id: "perez", num: "11", first: "Sergio", last: "Pérez", team: "cadillac" },
     { id: "bottas", num: "77", first: "Valtteri", last: "Bottas", team: "cadillac" },
     { id: "zhao", num: "28", first: "Zhao", last: "Han", team: "zytherion" },
-    { id: "gracia", num: "27", first: "Gracia", last: "Angelina", team: "zytherion" },
+    { id: "gracia", num: "29", first: "Gracia", last: "Angelina", team: "zytherion" },
 ];
 
 export default function DriversStandings() {

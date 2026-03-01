@@ -185,7 +185,7 @@ export const teams = {
         powerUnit: 'Yamaha',
         drivers: [
             { first: 'Zhao', last: 'han', num: '28', img: '/assets/rihan.png' },
-            { first: 'Gracia', last: 'Angelina', num: '27', img: '/assets/gracia.png' }
+            { first: 'Gracia', last: 'Angelina', num: '29', img: '/assets/gracia.png' }
         ],
         description: 'In a massive breakthrough for motorsport, Indonesian constructor Zytherion F1 Racing enters Formula 1 for the 2026 season! Operating out of Jakarta, the team brings a fresh new energy and massive ambition to the grid alongside Audi and Cadillac. Spearheaded by Indonesian superstar Rayhan Aziel Abbrar and talented rising star Gracia Angelina.',
         sourceName: 'Zytherion F1 Racing Official',
