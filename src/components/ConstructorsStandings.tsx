@@ -44,7 +44,7 @@ export default function ConstructorsStandings() {
                     className="mb-20 flex flex-col md:flex-row justify-between items-end border-b border-white/10 pb-8"
                 >
                     <div>
-                        <h2 className="text-5xl md:text-8xl font-racing italic uppercase tracking-widest text-white drop-shadow-xl">
+                        <h2 className="text-3xl md:text-8xl font-racing italic uppercase tracking-widest text-white drop-shadow-xl">
                             Constructors
                         </h2>
                         <p className="text-[--color-f1-red] mt-4 font-bold tracking-[0.3em] uppercase text-sm md:text-lg">
